@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 1.2cm;
+    font-family: 'Times New Roman', Times, serif;
+}
+label{
+    color: red;
+    text-align: justify;
+    font-size: 1.5em;
+}
+input{
+    color: black;
+    outline-color: blueviolet;
+    text-align: justify;
+}
+button{
+    color: green;
+}
+

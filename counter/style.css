@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+h1{
+   color: rgb(131, 28, 28); 
+   padding-bottom: 30px;
+}
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btncontainer{
+    text-align: center;
+}
+#decreasebtn{
+    color: #fff;
+    background: rgb(10, 98, 64);
+    margin-bottom: auto;
+    font-size: 1em;
+    padding: 5px 2px;
+    cursor: pointer;
+    transition: background-color 0.35s;
+}
+#restbtn{
+    color: #fff;
+    background-color: rgb(202, 19, 40);
+    margin-bottom: 90px;
+    font-size: 1em;
+    padding: 5px 2px;
+    cursor: pointer;
+    transition: background-color 0.4s;
+}
+#increasebtn{
+    color: #fff;
+    background-color: rgb(7, 69, 180);
+    margin-bottom: 90px;
+    font-size: 1em;
+    padding: 5px 2px;
+    cursor: pointer;
+    transition: background-color 0.4s;
+}
+.buttons:hover{
+    background-color: aqua;
+}
+footer{
+    text-align: end;
+    text-decoration: overline;
+}

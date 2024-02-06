@@ -1,5 +1,4 @@
 h1{
-    text-align: center;
     color: blue;
     font-size: 1.2cm;
     font-family: 'Times New Roman', Times, serif;
@@ -8,13 +7,45 @@ label{
     color: red;
     text-align: justify;
     font-size: 1.5em;
+    padding-bottom: 20px;
 }
 input{
     color: black;
     outline-color: blueviolet;
-    text-align: justify;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    display: inline-flex;
 }
 button{
-    color: green;
+    color: white;
+    background: rgb(13, 149, 148);
+    font-size: 1.5em;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.form{
+    background: white;
+    display: block;
+    padding: 30px 0px;
+}
+body{
+    text-align: center;
+    margin: 100px 0;
+    background: peachpuff;
+    height: auto;
 }
 
+.name{
+    margin-bottom: 20px;
+    display: block;
+}
+
+.email{
+    margin-bottom: 20px;
+    display: block;
+}
+
+.school{
+    margin-bottom: 20px;
+    display: block;
+}

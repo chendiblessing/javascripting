@@ -1,0 +1,90 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+h1{
+    color: rgb(7, 34, 74);
+    margin-bottom: 69px;
+}
+
+#input{
+    margin-left: 30px;
+    font-size: 1em;
+    margin-bottom: 40px;
+}
+
+.box{
+    background-color: #807d7d;
+    padding: 30px 20px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    width: 70%;
+}
+
+#p1{
+    background: red;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+#p2{
+    background: orange;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+#p3{
+    background: yellow;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+#p4{
+    background: green;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+#p5{
+    background:blue;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+#p6{
+    background: indigo;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+#p7{
+    background: violet;
+    color: #fff;
+    font-size: 1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+button{
+    margin-left: 15px;
+}
+
+#result{
+    color: darkslateblue;
+    font-weight: bold;
+}

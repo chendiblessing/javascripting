@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: darkgreen;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    background-color: aqua;
+    text-align: center;
+    align-content: center;
+    width: 70%;
+    height: 5cm;
+    padding-top: 1cm;
+}
+body{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+}
+
